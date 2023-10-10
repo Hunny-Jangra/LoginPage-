@@ -9,3 +9,6 @@ Currently, two official plugins are available:
 
 ##Login Page
 ![image](https://github.com/Hunny-Jangra/LoginPage-/assets/104129026/719ac40c-7ea2-4730-81d6-873d6ec28ad8)
+
+## Data Saved in DataBase
+![image](https://github.com/Hunny-Jangra/LoginPage-/assets/104129026/7a83a571-ef7a-450a-8d5e-cd5b73f3224d)
